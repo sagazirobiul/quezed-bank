@@ -11,7 +11,7 @@ document.getElementById('withdraw-btn').addEventListener('click', function(){
     }
     
     if(newWithdrawAmount > previousBalanceTotal){
-        alert('Baper bank a ato tk nai!!!')
+        alert('You can not withdraw than current balance :)')
         return;
     }
     
