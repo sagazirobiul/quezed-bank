@@ -7,4 +7,4 @@ Email: baper@bank.com
 <br>
 Password: secret
 <br>
-Also you will the pass & email on console tab.
+Also, you will get the pass & email on the console tab.
