@@ -11,7 +11,7 @@ document.getElementById('withdraw-btn').addEventListener('click', function(){
     }
     
     if(newWithdrawAmount > previousBalanceTotal){
-        alert('You can not withdraw than current balance :)')
+        alert('You can not withdraw more than current balance :)')
         return;
     }
     
